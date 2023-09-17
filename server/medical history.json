@@ -1,0 +1,707 @@
+[
+  {
+    "ehr_no": "EHR001",
+    "patient_name": "John Doe",
+    "patient_contact_no": "123-456-7890",
+    "allergies": ["Pollen", "Penicillin"],
+    "Family_medical_history": [
+      {
+        "condition": "Diabetes",
+        "relationship": "Father"
+      },
+      {
+        "condition": "Hypertension",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      },
+      {
+        "condition": "Appendicitis",
+        "treatment": "Surgery"
+      }
+    ]
+  },
+  {
+    "ehr_no": "EHR002",
+    "patient_name": "Jane Smith",
+    "patient_contact_no": "987-654-3210",
+    "allergies": ["Shellfish"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Mother"
+      },
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Migraine",
+        "treatment": "Medication"
+      },
+      {
+        "condition": "Fractured Arm",
+        "treatment": "Casting"
+      }
+    ]
+  },
+  {
+    "ehr_no": "EHR003",
+    "patient_name": "Vipul Dalal",
+    "patient_contact_no": "123-456-7987",
+    "allergies": ["Pollen", "Penicillin"],
+    "Family_medical_history": [
+      {
+        "condition": "Diabetes",
+        "relationship": "Father"
+      },
+      {
+        "condition": "Hypertension",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      },
+      {
+        "condition": "Appendicitis",
+        "treatment": "Surgery"
+      }
+    ]
+  },
+  {
+    "ehr_no": "EHR004",
+    "patient_name": "Jane Smith",
+    "patient_contact_no": "987-654-3210",
+    "allergies": ["Shellfish"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Mother"
+      },
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Migraine",
+        "treatment": "Medication"
+      },
+      {
+        "condition": "Fractured Arm",
+        "treatment": "Casting"
+      }
+    ]
+  },
+  {
+    "ehr_no": "EHR003",
+    "patient_name": "Robert Johnson",
+    "patient_contact_no": "555-123-4567",
+    "allergies": ["None"],
+    "Family_medical_history": [
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      },
+      {
+        "condition": "Diabetes",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Broken Leg",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Hypothyroidism",
+        "treatment": "Medication"
+      }
+    ]
+  },
+
+{
+    "ehr_no": "EHR056",
+    "patient_name": "Daniel Martinez",
+    "patient_contact_no": "333-444-5555",
+    "allergies": ["Latex", "Peanuts"],
+    "Family_medical_history": [
+      {
+        "condition": "Diabetes",
+        "relationship": "Mother"
+      },
+      {
+        "condition": "High Blood Pressure",
+        "relationship": "Father"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Appendicitis",
+        "treatment": "Surgery"
+      },
+      {
+        "condition": "Anxiety",
+        "treatment": "Counseling"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR057",
+    "patient_name": "Sarah Adams",
+    "patient_contact_no": "555-777-1111",
+    "allergies": ["Shellfish"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Grandfather"
+      },
+      {
+        "condition": "Heart Disease",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      },
+      {
+        "condition": "Gallbladder Surgery",
+        "treatment": "Surgical removal"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR058",
+    "patient_name": "James Wilson",
+    "patient_contact_no": "777-222-3333",
+    "allergies": ["Dust mites"],
+    "Family_medical_history": [
+      {
+        "condition": "Diabetes",
+        "relationship": "Father"
+      },
+      {
+        "condition": "Asthma",
+        "relationship": "Sister"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Fractured Arm",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Hypothyroidism",
+        "treatment": "Medication"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR059",
+    "patient_name": "Olivia Johnson",
+    "patient_contact_no": "555-999-8888",
+    "allergies": ["Pollen", "Milk"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Mother"
+      },
+      {
+        "condition": "Hypertension",
+        "relationship": "Father"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Broken Leg",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Depression",
+        "treatment": "Medication"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR060",
+    "patient_name": "Ethan Davis",
+    "patient_contact_no": "888-111-4444",
+    "allergies": ["Eggs", "Bee stings"],
+    "Family_medical_history": [
+      {
+        "condition": "Heart Disease",
+        "relationship": "Grandmother"
+      },
+      {
+        "condition": "Arthritis",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Strep Throat",
+        "treatment": "Antibiotics"
+      },
+      {
+        "condition": "Ankle Sprain",
+        "treatment": "Rest and ice"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR066",
+    "patient_name": "Noah Turner",
+    "patient_contact_no": "555-123-7777",
+    "allergies": ["Pollen", "Penicillin"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Father"
+      },
+      {
+        "condition": "High Blood Pressure",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      },
+      {
+        "condition": "Appendicitis",
+        "treatment": "Surgery"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR067",
+    "patient_name": "Liam Hernandez",
+    "patient_contact_no": "123-777-5555",
+    "allergies": ["Shellfish"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Mother"
+      },
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Migraine",
+        "treatment": "Medication"
+      },
+      {
+        "condition": "Fractured Arm",
+        "treatment": "Casting"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR068",
+    "patient_name": "Sophia Lee",
+    "patient_contact_no": "555-666-9999",
+    "allergies": ["None"],
+    "Family_medical_history": [
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      },
+      {
+        "condition": "Diabetes",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Broken Leg",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Hypothyroidism",
+        "treatment": "Medication"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR069",
+    "patient_name": "Mason Lewis",
+    "patient_contact_no": "777-555-2222",
+    "allergies": ["Eggs"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Grandmother"
+      },
+      {
+        "condition": "Hypertension",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Fractured Wrist",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Seasonal Allergies",
+        "treatment": "Antihistamines"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR070",
+    "patient_name": "Harper Turner",
+    "patient_contact_no": "555-888-4444",
+    "allergies": ["Dust mites", "Milk"],
+    "Family_medical_history": [
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      },
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Strep Throat",
+        "treatment": "Antibiotics"
+      },
+      {
+        "condition": "Ankle Sprain",
+        "treatment": "Rest and ice"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR071",
+    "patient_name": "Ava Garcia",
+    "patient_contact_no": "555-111-7777",
+    "allergies": ["Pollen", "Penicillin"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Father"
+      },
+      {
+        "condition": "High Blood Pressure",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      },
+      {
+        "condition": "Appendicitis",
+        "treatment": "Surgery"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR072",
+    "patient_name": "Oliver Brown",
+    "patient_contact_no": "333-555-7777",
+    "allergies": ["Shellfish"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Grandfather"
+      },
+      {
+        "condition": "Heart Disease",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Migraine",
+        "treatment": "Medication"
+      },
+      {
+        "condition": "Fractured Arm",
+        "treatment": "Casting"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR073",
+    "patient_name": "Sophia Rodriguez",
+    "patient_contact_no": "555-999-3333",
+    "allergies": ["None"],
+    "Family_medical_history": [
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      },
+      {
+        "condition": "Diabetes",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Broken Leg",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Hypothyroidism",
+        "treatment": "Medication"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR074",
+    "patient_name": "Lucas Smith",
+    "patient_contact_no": "777-222-1111",
+    "allergies": ["Eggs"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Grandmother"
+      },
+      {
+        "condition": "Hypertension",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Fractured Wrist",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Seasonal Allergies",
+        "treatment": "Antihistamines"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR075",
+    "patient_name": "Ella Taylor",
+    "patient_contact_no": "555-444-8888",
+    "allergies": ["Dust mites", "Milk"],
+    "Family_medical_history": [
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      },
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Strep Throat",
+        "treatment": "Antibiotics"
+      },
+      {
+        "condition": "Ankle Sprain",
+        "treatment": "Rest and ice"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR076",
+    "patient_name": "Aiden Davis",
+    "patient_contact_no": "888-444-7777",
+    "allergies": ["Pollen", "Penicillin"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Father"
+      },
+      {
+        "condition": "High Blood Pressure",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      },
+      {
+        "condition": "Appendicitis",
+        "treatment": "Surgery"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR077",
+    "patient_name": "Scarlett Martinez",
+    "patient_contact_no": "555-777-3333",
+    "allergies": ["Shellfish"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Mother"
+      },
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      }
+    ],
+    "alcoholic": true,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Migraine",
+        "treatment": "Medication"
+      },
+      {
+        "condition": "Fractured Arm",
+        "treatment": "Casting"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR078",
+    "patient_name": "Zoe Lee",
+    "patient_contact_no": "555-666-4444",
+    "allergies": ["None"],
+    "Family_medical_history": [
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      },
+      {
+        "condition": "Diabetes",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Broken Leg",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Hypothyroidism",
+        "treatment": "Medication"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR079",
+    "patient_name": "Elijah Lewis",
+    "patient_contact_no": "777-555-1111",
+    "allergies": ["Eggs"],
+    "Family_medical_history": [
+      {
+        "condition": "Cancer",
+        "relationship": "Grandmother"
+      },
+      {
+        "condition": "Hypertension",
+        "relationship": "Mother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": false,
+    "previous_medical_history": [
+      {
+        "condition": "Fractured Wrist",
+        "treatment": "Casting"
+      },
+      {
+        "condition": "Seasonal Allergies",
+        "treatment": "Antihistamines"
+      }
+    ]
+},
+{
+    "ehr_no": "EHR080",
+    "patient_name": "Mia Turner",
+    "patient_contact_no": "555-888-9999",
+    "allergies": ["Dust mites", "Milk"],
+    "Family_medical_history": [
+      {
+        "condition": "Heart Disease",
+        "relationship": "Father"
+      },
+      {
+        "condition": "Asthma",
+        "relationship": "Brother"
+      }
+    ],
+    "alcoholic": false,
+    "tobacco": true,
+    "previous_medical_history": [
+      {
+        "condition": "Strep Throat",
+        "treatment": "Antibiotics"
+      },
+      {
+        "condition": "Ankle Sprain",
+        "treatment": "Rest and ice"
+      }
+    ]
+}
+
+
+
+
+]
